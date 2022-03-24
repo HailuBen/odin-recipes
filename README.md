@@ -10,3 +10,6 @@ The website will consist of:
 2. links to a few recipes. 
 
 Remember to commit each change!!!
+I have changed to the develop branch.
+
+i am adding a new feature (branch)
