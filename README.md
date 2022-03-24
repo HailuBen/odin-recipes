@@ -8,3 +8,5 @@ The website will consist of:
 
 1. a main index page which will have 
 2. links to a few recipes. 
+
+Remember to commit each change!!!
