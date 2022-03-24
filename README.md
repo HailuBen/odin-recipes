@@ -9,4 +9,10 @@ The website will consist of:
 1. a main index page which will have 
 2. links to a few recipes. 
 
-Remember to commit each change!!!
+Remember to commit each change!!! {develop/main
+}
+Remember to commit each change!!! {feature-new-feature branch
+}
+I have changed to the develop branch.
+
+i am adding a new feature (branch)
