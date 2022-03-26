@@ -1,0 +1,61 @@
+* {
+    font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+    background-color: rgb(143, 156, 156);
+}
+body {
+    padding-left: 20px;
+    margin-left: 10px;
+
+}
+img{
+    border: 2px solid rgb(228, 246, 255);
+
+}
+.recipes {
+    padding-left: 20px;
+    border: 2px solid rgb(228, 246, 255);
+
+}
+.recipes,ul,li{
+    padding: 10px;
+    margin: 20px 0px;
+    background: rgb(49,5,108);
+    background: linear-gradient(90deg, rgba(49,5,108,1) 17%, rgba(70,9,121,1) 39%, rgba(0,63,255,1) 68%, rgba(0,191,255,1) 88%); 
+    width: fit-content;
+    color: aliceblue;
+}
+
+b {
+    color: rgb(130, 138, 255);
+    background-color: black;
+}
+
+a {
+    color: rgb(130, 138, 255);
+    background-color: aliceblue;
+    font-weight: bold;
+}
+
+.t-one {
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 18px;
+
+}
+
+.t-two {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+
+}
+
+.t-three {
+    font-family: 'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
+    font-size: 18px;
+
+}
+
+.t-four {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+}
